@@ -1,4 +1,4 @@
-Project Title - Spotify Web Clone
+Project Title - SPOTIFY WEB PLAYER
 
 Project Description
 "This project is a clone of the Spotify web application, built using HTML and CSS. It replicates the UI/UX of the Spotify web player, including features like the navigation bar, playlists, and the music player interface."
